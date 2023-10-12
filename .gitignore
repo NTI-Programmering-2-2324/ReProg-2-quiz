@@ -1,0 +1,6 @@
+# Ignore cache from Python pytest
+__pycache__/
+*.pyc
+
+# Ignore cache from Python pytest-cov
+htmlcov/

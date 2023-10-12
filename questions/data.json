@@ -1,0 +1,22 @@
+[
+  {
+    "item": "Vad är ränta?",
+    "options": [
+      "En kostnad för att låna pengar",
+      "En typ av valuta",
+      "En aktie i ett företag",
+      "En skatt på inkomst"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "item": "Vad är en aktie?",
+    "options": [
+      "En skatt på inkomst",
+      "En kostnad för att låna pengar",
+      "En typ av valuta",
+      "En andel i ett företag"
+    ],
+    "correct_option_index": 3
+  }
+]
